@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArchAngelArt
 - 👀 I’m interested in ... Game disign
-- 🌱 I’m currently learning ... Gmae Maker Studio
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Gmae Maker Studio 2 and DevOps engineering
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... SoulArchi@hotmail.com
 
 <!---
